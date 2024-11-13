@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate embedded systems engineer and IoT
 
 ## 🎨 Animated SVG
 <p align="center">
-  <img src="Animation.gif" alt="Animated SVG Example" width="600" height="auto">
+  <img src="Animation.gif" alt="Animated SVG Example" width="300" height="auto">
 </p>
 
 
