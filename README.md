@@ -30,7 +30,10 @@ Welcome to my GitHub profile! I'm a passionate embedded systems engineer and IoT
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AymanBenAmor&theme=dark)
 
 ## 🎨 Animated SVG
-![Animated SVG Example](Animation.gif)
+<p align="center">
+  <img src="Animation.gif" alt="Animated SVG Example" width="600" height="auto">
+</p>
+
 
 ---
 
