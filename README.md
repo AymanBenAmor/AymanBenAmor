@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm a passionate embedded systems engineer and IoT
 <p>
   <img src="Animation.gif" alt="Animated SVG Example" width="300" height="auto">
 </p>
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/AymanBenAmor/AymanBenAmor/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
